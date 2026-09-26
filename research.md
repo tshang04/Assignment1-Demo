@@ -1,6 +1,6 @@
 ## Research:
 
-After reading 2 articles about student portfolio goals, I have realized that good portfolios tell a good story, and make it clear and concise the strengths that I bring to the table whenever meeting with potential job employers. 
+After finding, and reading one to two articles about student portfolio goals on the Laurier library website, I had noticed some differences and similarities between my goals, and the academic goals/learning outcomes these articles discussed. First off, the article mentioned that most student portfolio goals include those that can be improved upon, and "emphasizes that the goals should be set by combining learning goals with individuals’ needs" (Jones and Jones, 2004), which is what I believe my goals incorporate, since they improve my overall well-being and lifestyle too. Secondly, the article additionally states that goal setting should also be the demonstration of motivation, allowing students to have self-guidance and self-regulated functions, and triggering their motivation to enhance their own efforts and behavior (Chang et all., 2018), something I agree heavily upon with the 4 goals that I had wrote for this assignment. 
 
-Luis S.Y. Tzeng, Poky Y.F. Chiang, Stephen J.H. Yang, & Jeff J.S. Huang. (2012). Building an e-portfolio learning model: Goal orientation and metacognitive strategies. Knowledge Management & E-Learning: An International Journal, 4(1), 16–36. https://doaj.org/article/7cd220546cd54691b209a96bcf7ba818
+Chang, C. C., Liang, C., Chou, P. N., & Liao, Y. M. (2018). Using e-portfolio for learning goal setting to facilitate self-regulated learning of high school students. Behaviour & Information Technology, 37(12), 1237–1251. https://doi-org.libproxy.wlu.ca/10.1080/0144929X.2018.1496275 
 
